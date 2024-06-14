@@ -1,4 +1,5 @@
-*-screenshot-
-*report*
-*output*
+**/log.html
+**/*screenshot*
+**/report.html
+**/output.xml
 .idea
